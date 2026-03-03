@@ -2,55 +2,16 @@
     "peliculas": [
         {
             "tipo": "pelicula",
-            "name": "Un simple accidente",
+            "name": "A Working Man",
             "anio": "2025",
-            "genero": "Suspenso\/Drama\/Crimen",
-            "descripcion": "Un hombre conduce de noche con su esposa embarazada cuando atropella y mata a un perro, lo que le obliga a llevar el coche a un taller dirigido por un hombre que se parece al oficial que lo torturó en prisión.",
-            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Un%20simple%20accident\/poster.jpg",
-            "tamaño": "787MB",
+            "genero": "Acción\/Crimen\/Suspenso",
+            "descripcion": "Levon Cade dejó atrás una condecorada carrera militar en las operaciones encubiertas para vivir una vida sencilla trabajando en la construcción. Pero cuando la hija de su jefe, que para él es como de la familia, es secuestrada por traficantes de personas, su búsqueda para traerla a casa descubre un mundo de corrupción mucho mayor de lo que jamás podría haber imaginado.",
+            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20Working%20Man%20(2025)%20\/poster.jpg",
+            "tamaño": "1.0GB",
             "extension": ".mp4",
-            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Un%20simple%20accident\/Un%20simple%20accident.mp4",
-            "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Un%20simple%20accident\/Un%20simple%20accident.srt",
-            "duracion": "1h 43min"
-        },
-        {
-            "tipo": "pelicula",
-            "name": "Campamento Garra de Oso",
-            "anio": "",
-            "genero": "Comedia\/Familia",
-            "descripcion": "Maia, una imaginativa y alborotada niña, y Jan, un niño miedica de ciudad, lucharán a contrarreloj para salvar el campamento de verano amenazado por el excéntrico constructor Sebastián Sebastián. Para ello, buscarán sin descanso un oso que creen que todavía habita en el valle pero que nadie ha visto. En esta intrépida aventura les ayudará Fritz, una divertida y gruñona mofeta… ¡que habla! y que se unirá al equipo para salvar el valle y sus animales.",
-            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Campamento%20Garra%20de%20Oso\/poster.jpg",
-            "tamaño": "808MB",
-            "extension": ".mp4",
-            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Campamento%20Garra%20de%20Oso\/Campamento%20Garra%20de%20Oso.mp4",
-            "subtitulos": "no",
-            "duracion": "1h 38min"
-        },
-        {
-            "tipo": "pelicula",
-            "name": "Bajo un volcán",
-            "anio": "2025",
-            "genero": "Romance\/Drama\/Aventura",
-            "descripcion": "Cuando Mario Torres, capitán y piloto militar, llega a Tenerife la erupción del volcán parece haber remitido. Dani, una experta vulcanóloga, teme una reactivación violenta inminente. Eso le lleva a un conflicto con el comité científico del organismo encargado. Con esa amenaza sobre el pueblo Garachico, el amor y la pasión que nace entre ellos es tan inevitable como cualquier catástrofe natural. Una vez confirmada la amenaza, ambos deberán luchar contra el volcán y sus propios sentimientos.",
-            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Bajo%20un%20volcan\/poster.jpg",
-            "tamaño": "677MB",
-            "extension": ".mp4",
-            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Bajo%20un%20volcan\/Bajo%20un%20volcan.mp4",
-            "subtitulos": "no",
-            "duracion": "1h 27min"
-        },
-        {
-            "tipo": "pelicula",
-            "name": "Anemone",
-            "anio": "2025",
-            "genero": "Drama",
-            "descripcion": "Una exploración de las intrincadas relaciones entre padres, hijos y hermanos, así como de la dinámica de los vínculos familiares.",
-            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Anemone%202025\/poster.jpg",
-            "tamaño": "1.1GB",
-            "extension": ".mp4",
-            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Anemone%202025\/Anemon3.2025..mp4",
-            "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Anemone%202025\/Anemone%202025%201080p%20WEB%20H264-SLOT.srt",
-            "duracion": "2h 6min"
+            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20Working%20Man%20(2025)%20\/A.Working.Man.2025.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
+            "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20Working%20Man%20(2025)%20\/A.Working.Man.2025.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.es.srt",
+            "duracion": "1h 56min"
         }
     ],
     "series": [],
