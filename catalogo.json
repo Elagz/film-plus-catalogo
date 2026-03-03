@@ -47,6 +47,30 @@
             "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Bajo%20un%20volcan\/Bajo%20un%20volcan.mp4",
             "subtitulos": "no",
             "duracion": "1h 27min"
+        },
+        {
+            "name": "A House of Dynamite",
+            "anio": "2025",
+            "genero": "Suspenso",
+            "descripcion": "Cuando un misil sin identificar es lanzado contra EE. UU., se desata una carrera a contrarreloj por descubrir al responsable y decidir cómo responder.",
+            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20House%20of%20Dynamite%20(2025)\/poster.jpg",
+            "tamaño": "1.0GB",
+            "extension": ".mp4",
+            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20House%20of%20Dynamite%20(2025)\/A.House.Of.Dynamit3.2025..mp4",
+            "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20House%20of%20Dynamite%20(2025)\/A.House.Of.Dynamit3.2025..es.srt",
+            "duracion": "1h 55min"
+        },
+        {
+            "name": "100 Nights of Hero",
+            "anio": "2025",
+            "genero": "Fantasía\/Romance",
+            "descripcion": "Sigue a una mujer (Monroe) cuyo marido negligente (El-Masry) la deja sola durante cien días para poner a prueba su fidelidad, mientras ella se ve envuelta en un triángulo amoroso con su leal criada (Corrin) y el seductor amigo de su marido (Galitzine).",
+            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/100%20Nights%20of%20Hero\/poster.jpg",
+            "tamaño": "700MB",
+            "extension": ".mp4",
+            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/100%20Nights%20of%20Hero\/100%20Nights%20of%20Her0.mp4",
+            "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/100%20Nights%20of%20Hero\/100%20Nights%20of%20Her0.srt",
+            "duracion": "1h 30min"
         }
     ],
     "series": [],
