@@ -1,7 +1,6 @@
 {
     "peliculas": [
         {
-            "tipo": "pelicula",
             "name": "A Working Man",
             "anio": "2025",
             "genero": "Acción\/Crimen\/Suspenso",
@@ -12,6 +11,18 @@
             "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20Working%20Man%20(2025)%20\/A.Working.Man.2025.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.mp4",
             "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/A%20Working%20Man%20(2025)%20\/A.Working.Man.2025.720p.WEBRip.x264.AAC-%5bYTS.MX%5d.es.srt",
             "duracion": "1h 56min"
+        },
+        {
+            "name": "Bailarina",
+            "anio": "2025",
+            "genero": "Acción\/Suspenso\/Crimen",
+            "descripcion": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, la misma organización criminal encargada del adiestramiento de John Wick. En esta violenta historia de venganza, Eve intentará por todos los medios averiguar quién está detrás del asesinato de su padre. En su lucha por conocer la verdad, tendrá que atenerse a las normas de la Alta Mesa y, por supuesto, a las del Hotel Continental, donde descubrirá que existen secretos ocultos sobre su pasado.",
+            "foto": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Ballerina\/poster.jpg",
+            "tamaño": "1.0GB",
+            "extension": ".mp4",
+            "descarga": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Ballerina\/Ballerin4.2025.mp4",
+            "subtitulos": "https:\/\/visuales.uclv.cu\/Peliculas\/Extranjeras\/2025\/Ballerina\/Ballerina%202025.srt",
+            "duracion": "2h 4min"
         }
     ],
     "series": [],
